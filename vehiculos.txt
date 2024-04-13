@@ -1,0 +1,5 @@
+Toyota, Corolla, Rojo, 2020, 15000
+Yamaha, YZF-R3, Azul, 2019, 8000
+Volvo, VNL 860, Blanco, 2021, 5000
+Trek, Marlin, Negro, 2021, 0
+Xiaomi, Scooter 4 pro, Negro, 2022, 0
